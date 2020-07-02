@@ -1,4 +1,7 @@
-/* eslint-disable no-console */
+/* This is the Service Worker
+Set-up for the Progressive 
+Web App (Offline Access)
+*/
 
 import { register } from 'register-service-worker'
 

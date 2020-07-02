@@ -149,7 +149,6 @@ export default {
    */
     mountData() {
       var that = this;
-      console.log(this.userInfo);
       this.userInfo.forEach(function(u) {
         var age = u.age;
         switch (true) {
